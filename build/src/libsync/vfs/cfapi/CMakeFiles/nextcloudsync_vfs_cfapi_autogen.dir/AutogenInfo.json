@@ -1,0 +1,150 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/nextcloudsync_vfs_cfapi_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi",
+	"CMAKE_EXECUTABLE" : "C:/CraftRoot/dev-utils/cmake-base/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/CMakeLists.txt",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/exportheader.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/nextcloudsync_vfs_cfapi_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "nextcloudsync_vfs_cfapi_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/cfapiwrapper.h",
+			"Mu",
+			"EWIEGA46WW/moc_cfapiwrapper.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/hydrationjob.h",
+			"Mu",
+			"EWIEGA46WW/moc_hydrationjob.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/vfs_cfapi.h",
+			"Mu",
+			"EWIEGA46WW/moc_vfs_cfapi.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/nextcloudsync_vfs_cfapi_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/nextcloudsync_vfs_cfapi_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NOMINMAX",
+		"NTDDI_VERSION=0x0A000004",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE5COMPAT_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x051200",
+		"QT_GUI_LIB",
+		"QT_MESSAGELOGCONTEXT",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_SQL_LIB",
+		"QT_SVG_LIB",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WEBSOCKETS_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"UMDF_USING_NTSTATUS",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0601",
+		"_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0601",
+		"_WIN32_WINNT=_WIN32_WINNT_WIN10",
+		"_WIN64",
+		"__USE_MINGW_ANSI_STDIO=1",
+		"nextcloudsync_vfs_cfapi_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi",
+		"C:/Nextcloud/client-building/desktop/build",
+		"C:/Nextcloud/client-building/desktop/src",
+		"C:/Nextcloud/client-building/desktop/build/src",
+		"C:/Nextcloud/client-building/desktop/src/libsync",
+		"C:/Nextcloud/client-building/desktop/build/src/libsync",
+		"C:/Nextcloud/client-building/desktop/build/src/csync",
+		"C:/Nextcloud/client-building/desktop/src/csync",
+		"C:/Nextcloud/client-building/desktop/src/csync/std",
+		"C:/CraftRoot/include/QtCore",
+		"C:/CraftRoot/include",
+		"C:/CraftRoot/mkspecs/win32-msvc",
+		"C:/CraftRoot/include/QtConcurrent",
+		"C:/CraftRoot/include/QtNetwork",
+		"C:/CraftRoot/include/QtWebSockets",
+		"C:/CraftRoot/include/QtXml",
+		"C:/CraftRoot/include/QtSql",
+		"C:/CraftRoot/include/QtGui",
+		"C:/CraftRoot/include/QtSvg",
+		"C:/CraftRoot/include/QtWidgets",
+		"C:/CraftRoot/include/KF6/KArchive",
+		"C:/CraftRoot/include/QtCore5Compat"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/CMakeFiles/nextcloudsync_vfs_cfapi_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/CraftRoot/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/CMakeFiles/nextcloudsync_vfs_cfapi_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/cfapiwrapper.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/hydrationjob.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/vfs_cfapi.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

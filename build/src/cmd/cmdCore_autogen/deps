@@ -1,0 +1,7 @@
+cmdCore_autogen/timestamp: \
+	C:/Nextcloud/client-building/desktop/src/cmd/CMakeLists.txt \
+	C:/Nextcloud/client-building/desktop/src/cmd/netrcparser.cpp \
+	C:/Nextcloud/client-building/desktop/src/cmd/netrcparser.h \
+	C:/Nextcloud/client-building/desktop/src/cmd/simplesslerrorhandler.cpp \
+	C:/Nextcloud/client-building/desktop/src/cmd/simplesslerrorhandler.h \
+	C:/CraftRoot/dev-utils/cmake-base/bin/cmake.exe

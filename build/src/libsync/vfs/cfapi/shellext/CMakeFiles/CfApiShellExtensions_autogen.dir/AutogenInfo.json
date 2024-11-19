@@ -1,0 +1,207 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CfApiShellExtensions_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext",
+	"CMAKE_EXECUTABLE" : "C:/CraftRoot/dev-utils/cmake-base/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/CMakeLists.txt",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/GenerateIconsUtils.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/ECMAddAppIcon.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/FindPng2Ico.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpersStub.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpers.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FeatureSummary.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindIcotool.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/FindPng2Ico.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpersStub.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpers.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FeatureSummary.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindIcotool.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/configvfscfapishellext.h.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CfApiShellExtensions_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "CfApiShellExtensions_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/shellextensionutils.h",
+			"Mu",
+			"AAGGKE4ILT/moc_shellextensionutils.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/cfapishellintegrationclassfactory.h",
+			"Mu",
+			"EWIEGA46WW/moc_cfapishellintegrationclassfactory.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovider.h",
+			"Mu",
+			"EWIEGA46WW/moc_customstateprovider.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovideripc.h",
+			"Mu",
+			"EWIEGA46WW/moc_customstateprovideripc.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/ipccommon.h",
+			"Mu",
+			"EWIEGA46WW/moc_ipccommon.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovider.h",
+			"Mu",
+			"EWIEGA46WW/moc_thumbnailprovider.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovideripc.h",
+			"Mu",
+			"EWIEGA46WW/moc_thumbnailprovideripc.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CfApiShellExtensions_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CfApiShellExtensions_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"CfApiShellExtensions_EXPORTS",
+		"NOMINMAX",
+		"NTDDI_VERSION=0x0A000004",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x051200",
+		"QT_MESSAGELOGCONTEXT",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_USE_QSTRINGBUILDER",
+		"UMDF_USING_NTSTATUS",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0601",
+		"_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0601",
+		"_WIN32_WINNT=_WIN32_WINNT_WIN10",
+		"_WIN64",
+		"__USE_MINGW_ANSI_STDIO=1"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/build",
+		"C:/Nextcloud/client-building/desktop/src",
+		"C:/Nextcloud/client-building/desktop/build/src",
+		"C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext",
+		"C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/Generated",
+		"C:/Nextcloud/client-building/desktop",
+		"C:/Nextcloud/client-building/desktop/build/src/csync",
+		"C:/Nextcloud/client-building/desktop/src/csync",
+		"C:/Nextcloud/client-building/desktop/src/csync/std",
+		"C:/CraftRoot/include/QtCore",
+		"C:/CraftRoot/include",
+		"C:/CraftRoot/mkspecs/win32-msvc",
+		"C:/CraftRoot/include/QtConcurrent",
+		"C:/CraftRoot/include/QtNetwork"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CMakeFiles/CfApiShellExtensions_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/CraftRoot/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "C:/Nextcloud/client-building/desktop/build/src/libsync/vfs/cfapi/shellext/CMakeFiles/CfApiShellExtensions_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/shellextensionutils.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/cfapishellintegrationclassfactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovideripc.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/dllmain.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/ipccommon.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovideripc.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

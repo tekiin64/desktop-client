@@ -1,0 +1,308 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Nextcloud/client-building/desktop/build/src/csync/nextcloud_csync_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Nextcloud/client-building/desktop/build/src/csync",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop/src/csync",
+	"CMAKE_EXECUTABLE" : "C:/CraftRoot/dev-utils/cmake-base/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/src/csync/CMakeLists.txt",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/DefineCMakeDefaults.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/DefinePlatformDefaults.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/DefineCompilerFlags.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckCCompilerFlag.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/CheckCCompilerFlagSSP.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake",
+		"C:/Nextcloud/client-building/desktop/src/csync/DefineOptions.cmake",
+		"C:/Nextcloud/client-building/desktop/cmake/modules/DefineInstallationPaths.cmake",
+		"C:/Nextcloud/client-building/desktop/src/csync/ConfigureChecks.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckIncludeFile.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckSymbolExists.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckFunctionExists.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckLibraryExists.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckTypeSize.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckIncludeFile.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Nextcloud/client-building/desktop/src/common/common.cmake",
+		"C:/Nextcloud/client-building/desktop/src/common/vfspluginmetadata.json.in",
+		"C:/Nextcloud/client-building/desktop/src/csync/csync_version.h.in",
+		"C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/exportheader.cmake.in",
+		"C:/Nextcloud/client-building/desktop/src/csync/config_csync.h.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Nextcloud/client-building/desktop",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Nextcloud/client-building/desktop/build/src/csync/nextcloud_csync_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "nextcloud_csync_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/checksumcalculator.h",
+			"Mu",
+			"AAGGKE4ILT/moc_checksumcalculator.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/checksums.h",
+			"Mu",
+			"AAGGKE4ILT/moc_checksums.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/filesystembase.h",
+			"Mu",
+			"AAGGKE4ILT/moc_filesystembase.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/ownsql.h",
+			"Mu",
+			"AAGGKE4ILT/moc_ownsql.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/pinstate.h",
+			"Mu",
+			"AAGGKE4ILT/moc_pinstate.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/plugin.h",
+			"Mu",
+			"AAGGKE4ILT/moc_plugin.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/preparedsqlquerymanager.h",
+			"Mu",
+			"AAGGKE4ILT/moc_preparedsqlquerymanager.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/remotepermissions.h",
+			"Mu",
+			"AAGGKE4ILT/moc_remotepermissions.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncfilestatus.h",
+			"Mu",
+			"AAGGKE4ILT/moc_syncfilestatus.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncjournaldb.h",
+			"Mu",
+			"AAGGKE4ILT/moc_syncjournaldb.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncjournalfilerecord.h",
+			"Mu",
+			"AAGGKE4ILT/moc_syncjournalfilerecord.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/utility.h",
+			"Mu",
+			"AAGGKE4ILT/moc_utility.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/vfs.h",
+			"Mu",
+			"AAGGKE4ILT/moc_vfs.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/csync.h",
+			"Mu",
+			"EWIEGA46WW/moc_csync.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/csync_exclude.h",
+			"Mu",
+			"EWIEGA46WW/moc_csync_exclude.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/std/c_time.h",
+			"Mu",
+			"6Y2RINSSBT/moc_c_time.cpp",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/vio/csync_vio_local.h",
+			"Mu",
+			"4HMBWXZEJB/moc_csync_vio_local.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Nextcloud/client-building/desktop/build/src/csync/nextcloud_csync_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Nextcloud/client-building/desktop/build/src/csync/nextcloud_csync_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NOMINMAX",
+		"NTDDI_VERSION=0x0A000004",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x051200",
+		"QT_MESSAGELOGCONTEXT",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_DEBUG",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_USE_QSTRINGBUILDER",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0601",
+		"_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES=1",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0601",
+		"_WIN64",
+		"__USE_MINGW_ANSI_STDIO=1",
+		"nextcloud_csync_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Nextcloud/client-building/desktop/build/src/csync",
+		"C:/Nextcloud/client-building/desktop/src/csync",
+		"C:/Nextcloud/client-building/desktop/build",
+		"C:/Nextcloud/client-building/desktop/src",
+		"C:/Nextcloud/client-building/desktop/build/src",
+		"C:/Nextcloud/client-building/desktop/src/csync/std",
+		"C:/CraftRoot/include/QtCore",
+		"C:/CraftRoot/include",
+		"C:/CraftRoot/mkspecs/win32-msvc",
+		"C:/CraftRoot/include/QtConcurrent"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "C:/Nextcloud/client-building/desktop/build/src/csync/CMakeFiles/nextcloud_csync_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/CraftRoot/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "C:/Nextcloud/client-building/desktop/build/src/csync/CMakeFiles/nextcloud_csync_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/checksumcalculator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/checksums.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/filesystembase.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/ownsql.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/pinstate.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/plugin.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/preparedsqlquerymanager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/remotepermissions.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncfilestatus.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncjournaldb.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/syncjournalfilerecord.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/utility.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/common/utility_win.cpp",
+			"Mu",
+			null
+		],
+		[ "C:/Nextcloud/client-building/desktop/src/common/vfs.cpp", "Mu", null ],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/csync.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/csync_exclude.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/std/c_time.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Nextcloud/client-building/desktop/src/csync/vio/csync_vio_local_win.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

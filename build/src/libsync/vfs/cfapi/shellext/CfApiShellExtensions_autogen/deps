@@ -1,0 +1,29 @@
+CfApiShellExtensions_autogen/timestamp: \
+	C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/CMakeParseArguments.cmake \
+	C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FeatureSummary.cmake \
+	C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindIcotool.cmake \
+	C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
+	C:/CraftRoot/dev-utils/cmake-base/share/cmake-3.30/Modules/FindPackageMessage.cmake \
+	C:/Nextcloud/client-building/desktop/cmake/modules/ECMAddAppIcon.cmake \
+	C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpers.cmake \
+	C:/Nextcloud/client-building/desktop/cmake/modules/ECMFindModuleHelpersStub.cmake \
+	C:/Nextcloud/client-building/desktop/cmake/modules/FindPng2Ico.cmake \
+	C:/Nextcloud/client-building/desktop/cmake/modules/GenerateIconsUtils.cmake \
+	C:/Nextcloud/client-building/desktop/src/common/shellextensionutils.cpp \
+	C:/Nextcloud/client-building/desktop/src/common/shellextensionutils.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/CMakeLists.txt \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/cfapishellintegrationclassfactory.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/cfapishellintegrationclassfactory.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/configvfscfapishellext.h.in \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovider.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovider.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovideripc.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/customstateprovideripc.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/dllmain.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/ipccommon.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/ipccommon.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovider.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovider.h \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovideripc.cpp \
+	C:/Nextcloud/client-building/desktop/src/libsync/vfs/cfapi/shellext/thumbnailprovideripc.h \
+	C:/CraftRoot/dev-utils/cmake-base/bin/cmake.exe
